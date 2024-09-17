@@ -1,5 +1,7 @@
 import { db } from "~/server/db";
 
+export const dynamic = "force-dynamic";
+
 // https://www.youtube.com/watch?v=d5x0JCZbAJs
 
 const images = [
