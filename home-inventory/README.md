@@ -2,8 +2,9 @@
 
 ## TODO
 
-- [ ] Make it deploy (coolify)
-- [ ] Scaffold basic ui with mock data
+- [x] Make it deploy (coolify)
+- [x] Scaffold basic ui with mock data
+- [ ] Tidy up Build process
 - [ ] Set up database (local docker instance)
 - [ ] Attach database to UI
 - [ ] Add authentication (w/ clerk)

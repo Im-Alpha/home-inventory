@@ -16,7 +16,7 @@ import {
  *
  * @see https://orm.drizzle.team/docs/goodies#multi-project-schema
  */
-export const createTable = pgTableCreator((name) => `home-inventory_${name}`);
+export const createTable = pgTableCreator((name) => `homeInventory_${name}`);
 
 export const posts = createTable(
   "post",
