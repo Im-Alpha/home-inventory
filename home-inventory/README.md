@@ -4,9 +4,9 @@
 
 - [x] Make it deploy (coolify)
 - [x] Scaffold basic ui with mock data
-- [ ] Tidy up Build process
-- [ ] Set up database (local docker instance)
-- [ ] Attach database to UI
+- [x] Tidy up Build process
+- [x] Set up database (local docker instance)
+- [x] Attach database to UI
 - [ ] Add authentication (w/ clerk)
 - [ ] Add image upload
 - [ ] Error management (w/ Sentry)
