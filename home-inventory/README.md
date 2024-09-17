@@ -7,7 +7,8 @@
 - [x] Tidy up Build process
 - [x] Set up database (local docker instance)
 - [x] Attach database to UI
-- [ ] Add authentication (w/ clerk)
+- [x] Add authentication (w/ clerk)
+- [ ] "taint" (server-only)
 - [ ] Add image upload
 - [ ] Error management (w/ Sentry)
 - [ ] Routing/image page (parallel route)
